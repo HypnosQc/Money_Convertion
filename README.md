@@ -1,6 +1,8 @@
 # Money_Convertion
 
-
+# Configuration
+1. Open with any Text Editor Money_convertion.lua
+2. Ctrl+F Search for 500002 (Gold Coins) and 500000 (Gold Bars) Replace it for your own Item IDS
 
 # Installation
 1. Just drop the Money_Convertion.lua in your lua_scripts folder.
