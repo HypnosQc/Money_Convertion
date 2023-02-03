@@ -1,6 +1,8 @@
 /*
 SQLyog Community v13.1.6 (64 bit)
 MySQL - 5.7.24 
+Database/Characters/platinum_Bars
+Synz#0643
 *********************************************************************
 */
 /*!40101 SET NAMES utf8 */;
