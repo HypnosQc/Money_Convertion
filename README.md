@@ -1,4 +1,6 @@
 # Money_Convertion
+#Credits AlerionDev Developper / Lua Master
+Made by AlerionDev
 
 # Configuration
 1. Open with any Text Editor Money_convertion.lua
